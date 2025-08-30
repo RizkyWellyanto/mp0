@@ -1,4 +1,4 @@
-# MP 0: The Basics
+# MP 0: The Basics 
 ### Due: Tuesday, Sep 9, 11:59PM
 
 ## Table of Contents
